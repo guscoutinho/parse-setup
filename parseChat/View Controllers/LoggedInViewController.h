@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LoggedInViewController.h
 //  parseChat
 //
 //  Created by Gustavo Coutinho on 7/9/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LoggedInViewController : UIViewController
 
 @end
-
